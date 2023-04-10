@@ -1,0 +1,8 @@
+# local env files
+.env
+
+# local model dotenv  @truffle/hdwallet-provider
+node_modules
+
+# build folder after migration commnd
+build
