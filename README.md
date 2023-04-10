@@ -8,6 +8,7 @@ npm install dotenv
 # cmd
 truffle migrate --network sepolia
 truffle console --network sepolia
+
 ## 進入sepolia所創在地blockchain環境下測試指令:
 -  let contract = await CallFaucet.at('他前面會出現的合約地址')
 - let balance = await contract.get_balance()
