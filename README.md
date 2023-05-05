@@ -82,7 +82,4 @@
     - `npm install @alch/alchemy-web3`
     - Web3 is similar to Ethers, as it is a library used to make creating requests to the Ethereum blockchain easier.
     - ABI (Application Binary Interface) :一個跟智能合約互動的介面
-=======
-# HW3 ERC20
->發佈自己的ERC20到sepolia上，我們的token名字叫做LoveLJ，縮寫是LJTK
->>>>>>> parent of 79b2638 (hw3 test file)
+
