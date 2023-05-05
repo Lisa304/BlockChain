@@ -30,6 +30,7 @@
 
 ## HW4 ERC721
 > ERC721又稱為NFT，是非同質化代幣，作業4要發佈自己的NFT到sepolia網路上，我們的token名稱叫做GoldenFish
+> 作業四是使用Hardhat來建立的
 
 1. CREATE YOUR APP (AND API KEY)
     - 這次使用[Alchemy](https://dashboard.alchemy.com/)

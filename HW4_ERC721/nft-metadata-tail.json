@@ -1,0 +1,16 @@
+{
+    "attributes": [
+      {
+        "trait_type": "Amount",
+        "value": "Two"
+      },
+      {
+        "trait_type": "Color",
+        "value": "Black"
+      }
+    ],
+    "description": "Li Jian with his British shorthair cat.",
+    "image": "ipfs://QmNmZtu9PfNs7LDzBhQ7ihTNLQ31tiwNRr6TjN2dLgQxCZ",
+    "name": "Tails"
+  }
+  
