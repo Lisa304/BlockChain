@@ -7,7 +7,7 @@ const { createAlchemyWeb3 } = require("@alch/alchemy-web3")
 const web3 = createAlchemyWeb3(API_URL)
 
 const contract = require("../artifacts/contracts/GFTK.sol/GoldenFish.json")
-const contractAddress = "0xF6a9AAC78F4DcA0733a4580ba1f26c521b910859"
+const contractAddress = "0x1858202760577046261aE71EF580DbecF79B8FDe"
 const nftContract = new web3.eth.Contract(contract.abi, contractAddress)
 
 async function mintNFT(tokenURI) {
