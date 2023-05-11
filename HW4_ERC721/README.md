@@ -11,3 +11,9 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
+
+部屬好就可以開始做動作啦~
+
+```shell
+node scripts/mint-nft.js
+```
